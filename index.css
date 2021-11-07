@@ -163,3 +163,26 @@ color: #F19201;
     font-size: 23px;
    padding-top: 30px;
 }
+.menu1{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.menub{
+    float: right;
+    text-align: center;
+    position: relative;
+    display: flex;
+    
+}
+.menua{
+    display: flex;
+
+}
+.menuc{
+    display: flex;
+}
+.menud{
+    display: flex;
+}
+
