@@ -97,7 +97,7 @@ color: #F19201;
     display: flex;
     justify-content: space-evenly;
 
-    
+    /* Editing buttons */
 }
 .button1{
     background-color:#F19201 ;
@@ -126,12 +126,14 @@ color: #F19201;
     border: white;
     color: white;
 }
+/* Edits section 3 */
 .section3{
     height: 400px;
     margin-top: 82px;
     display: flex;
     justify-content: space-between;
 }
+/* Edits reviiews */
 .reviews{
     border: 1px solid black;
     background-color: black;
