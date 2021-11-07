@@ -1,6 +1,8 @@
 .navbar{
     display: flex;
-    justify-content: space-around;
+    /* justify-content: space-around; */
+    padding: 0 22px;
+    
 }
 .MORINGA{
     background-color:  #F19201;
@@ -9,7 +11,7 @@
 .MORINGA1{
 color: #F19201;
 padding-bottom: 30px;
-color:white;
+
 }
 .section1{
   background-image:url(/images/image2.png);
@@ -19,9 +21,16 @@ color:white;
   background-size: cover;
  
 }
+.ul{
+    display:flex;
+    position: relative;
+    float: right;
+    list-style-type: none;
+}
 .info{
     color: white;
     font-size: 33px;
+    padding: 0 22px;
 }
 .order{
     background-color:#F19201 ;
@@ -33,10 +42,19 @@ color:white;
     list-style-type: none;
     display: flex;
     color: white;
+    margin: 17px;
+    float: right;
     
 }
 .home{
 color: #F19201;
+}
+.list{
+    margin: 17px;
+    
+}
+.sec1div{
+    background-color: rgba(255, 255, 255, 0.1);
 }
 
 .section2{
@@ -134,8 +152,14 @@ color: #F19201;
     text-align: center;
     font-size: 20px;
 }
-.section4{
+/* .section4{
     background-color: rgb(224, 223, 223);
-    height: 900px;
+    height: 900px; */
 
-}  
+
+.section4 h4{
+    color:#F19201 ;
+    text-align: center;
+    font-size: 23px;
+   padding-top: 30px;
+}
