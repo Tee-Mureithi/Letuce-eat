@@ -152,10 +152,10 @@ color: #F19201;
     text-align: center;
     font-size: 20px;
 }
-/* .section4{
+.section4{
     background-color: rgb(224, 223, 223);
-    height: 900px; */
-
+    height: 900px;
+}
 
 .section4 h4{
     color:#F19201 ;
@@ -165,7 +165,9 @@ color: #F19201;
 }
 .menu1{
     display: flex;
-    justify-content: space-evenly;
+    justify-content:space-evenly;
+    margin: 30px;
+   
     
 }
 .menub{
@@ -173,16 +175,46 @@ color: #F19201;
     text-align: center;
     position: relative;
     display: flex;
-    
+    border: 1px solid white;
+    background-color: white;
+    margin-right: 30px;
 }
 .menua{
     display: flex;
-
+    text-align: center;
+    position: relative;
+    border: 1px solid white;
+    background-color: white;
 }
 .menuc{
     display: flex;
+    text-align: center;
+    position: relative;
+    border: 1px solid white;
+    background-color: white;
 }
 .menud{
     display: flex;
+    float: right;
+    text-align: center;
+    position: relative;
+    border: 1px solid white;
+    background-color: white;
+}
+.menus{
+    margin: 20px;
+    justify-content:space-evenly;
+    align-items:center ;
+}
+.order1{
+    size: 30px;
+}
+.menu1 h5 {
+    font-size: 25px;
+}
+.menu1 p2{
+    font-size: 18px;
+    text-align: center;
+    padding-left: 20px;
 }
 
