@@ -1,0 +1,30 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+.MORINGA{
+    background-color:  #F19201;
+    color: white;
+}
+.MORINGA1{
+color: #F19201;
+padding-bottom: 30px;
+color:white;
+}
+.section1{
+  background-image:url(/images/image2.png);
+  height: 500px;
+  background-repeat:no-repeat ;
+  width: 100%;
+  background-size: cover;
+ 
+}
+.info{
+    color: white;
+    font-size: 33px;
+}
+.order{
+    background-color: #F19201;
+    width: 100px;
+    height: 30px;
+}
